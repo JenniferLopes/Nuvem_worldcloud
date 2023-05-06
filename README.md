@@ -1,1 +1,1 @@
-Exemplo de nuvem de palavras! Aproveite
+Tutorial de nuvem de palavras. Aproveite
